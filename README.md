@@ -1,5 +1,5 @@
 # 💫 About Me:
-:people_with_bunny_ears_partying: I’m looking to collaborate on open sourced projects.<br>:seedling: I’m currently learning Java OOP and design patterns.<br>:speech_balloon: Reach out to me through discord: t.rki<br>:zap: I'm also a Gamer, a Global Elite Counter Strike 2 player (no :billed_cap:).
+🧑🏻‍🤝‍🧑🏻 I’m looking to collaborate on open sourced projects.<br>:seedling: I’m currently learning Java OOP and design patterns.<br>:speech_balloon: Reach out to me through discord: t.rki<br>:zap: I'm also a Gamer, a Global Elite Counter Strike 2 player (no :billed_cap:).
 
 
 ## 🌐 Socials:
