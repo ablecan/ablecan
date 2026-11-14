@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍🤝‍🧑🏻 I’m looking to collaborate on open sourced projects.<br>:seedling: I’m currently learning Java OOP and design patterns.<br>:speech_balloon: Reach out to me through discord: t.rki<br>:zap:.
+🧑🏻‍🤝‍🧑🏻 I’m looking to collaborate on open sourced projects.<br>:seedling: I’m currently learning Java OOP and design patterns.<br>:speech_balloon: Reach out to me through discord: t.rki
 
 
 ## 🌐 Socials:
